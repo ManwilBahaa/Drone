@@ -10,10 +10,6 @@ I am excited to present my graduation project, an embedded systems-based drone c
 1. [Project Description](#project-description)
 2. [Features](#features)
 3. [Hardware Components](#hardware-components)
-4. [Installation and Setup](#installation-and-setup)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Project Description
 
