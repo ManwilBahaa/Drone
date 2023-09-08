@@ -1,4 +1,4 @@
 # Drone
 ITI - Embedded Systems graduation project
 
-![Project schematic](Screenshot 2023-09-08 183243.png)
+![Project schematic](https://github.com/ManwilBahaa/Drone/blob/main/Screenshot%202023-09-08%20183243.png)
